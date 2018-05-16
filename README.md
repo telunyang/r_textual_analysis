@@ -14,6 +14,8 @@
 ## 安裝套件
 devtools, rvest, jiebaR, jiebaRD, wordcloud2
 
+wordcloud2 請以 devtools::install_github("lchiffon/wordcloud2") 方式安裝
+
 ## stopwords.txt
 用來建立虛詞的檔案，以便檢索出關鍵字時，可以去除不必要的文字
 
